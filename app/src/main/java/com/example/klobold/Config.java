@@ -2,7 +2,7 @@ package com.example.klobold;
 
 final class Config {
 
-    static final String API_KEY = "AIzaSyDGVJCFRFE7lJkUStDSIPHcx5U0evW0R_o";
+    static final String API_KEY = "";
 
     static final String RR_PLAYLIST_ID = "PLhOyJtkBERuHPTofSLn1xo07QYIMmDf5t";
     static final int RANDOM_BOUND = 45;
